@@ -1,0 +1,12 @@
+opencv-python==4.10.0.84
+ultralytics==8.2.81
+pydantic==2.12.5
+requests==2.32.5
+aiohttp==3.10.5
+pyyaml==6.0.1
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
+pillow>=10.0.0
+super-gradients>=3.7.0
+torch>=2.0.0
+torchvision>=0.15.0
